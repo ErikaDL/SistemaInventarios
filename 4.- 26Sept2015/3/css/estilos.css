@@ -1,0 +1,9 @@
+.loscheck{
+	display: inline-block;
+}
+.loscheck:not(:last-child){
+	margin-right: 10px;
+}
+#cont-checks{
+	padding: 20px;
+}
